@@ -9,3 +9,7 @@
 ## Why This Repository?
 
 "I started this repository as a way to hold myself accountable for learning something new every day. It serves as my personal journal to document what I'm learning and to easily revisit concepts in the future."
+
+## Let's Connect
+
+"Feel free to reach out to me if you find this useful or want to connect! You can find me on LinkedIn https://www.linkedin.com/in/karenthiran-krishnamoorthy-13811b2b7/."

@@ -1,6 +1,6 @@
 # The-Learning-Curve
 
-A Short Description
+# A Short Description
 
 "This repository is a daily log of new things I learn, covering topics from software development to new technologies, and general knowledge."
 
